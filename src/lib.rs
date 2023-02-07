@@ -7,7 +7,6 @@ use serde::Deserialize;
 
 // Create the client for the c02 signal api
 // Rate limiting of 30ph  and 1 ps
-
 // Take an API key from the environment
 
 pub struct Client {
