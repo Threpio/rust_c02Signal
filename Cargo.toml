@@ -1,6 +1,6 @@
 [package]
 name = "rust_c02_signal"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Threpio / Theo Andresier <https://github.com/Threpio>"]
 description = "Rust implementation of the C02 Signal API - Very basic atm"
